@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 07e2e240bff9b41c0acd57b537b4764a
+guid: f58cee4ee6d18469e8c5f4568441d3e3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PacStudent life indicator_0
+      name: Flashing power pellets_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 36
-        width: 21
-        height: 20
+        x: 2
+        y: 35
+        width: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c07b5dbfd197545a5afa3542ad861c41
-      internalID: 74511186
+      spriteID: 222e98a9ad4f14c59bc06b6c6ab0dad9
+      internalID: 53258147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PacStudent life indicator_1
+      name: Flashing power pellets_1
       rect:
         serializedVersion: 2
-        x: 36
-        y: 36
-        width: 21
-        height: 20
+        x: 2
+        y: 3
+        width: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,29 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a2178353056e468fb14455a72fecd09
-      internalID: -1411186753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PacStudent life indicator_2
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 4
-        width: 21
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ceb8b153013d142b0a1bab2a5e6b7018
-      internalID: -484389559
+      spriteID: 9f56a3e828ad840af96a936733fa1586
+      internalID: -848099545
       vertices: []
       indices: 
       edges: []
@@ -179,9 +158,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacStudent life indicator_2: -484389559
-      PacStudent life indicator_0: 74511186
-      PacStudent life indicator_1: -1411186753
+      Flashing power pellets_0: 53258147
+      Flashing power pellets_1: -848099545
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
